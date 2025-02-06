@@ -3,7 +3,7 @@
 📌 Versión **6.7.7**  
 
 ## 🛠️ **Instalador actualizado – NodeJS 20:**
-🔗 [Repositorio del instalador](https://github.com/launcherbr/instalador.git)
+🔗 [Repositorio del instalador](https://github.com/AndresGarciaRD/Instalador-Master/tree/main)
 
 ## ⚡ **Notas Rápidas**
 🔹 **Requisitos del servidor:** Ubuntu 20.04 LTS con al menos **4 vCores y 8GB de RAM**.</br>
@@ -24,7 +24,7 @@ Las instrucciones para modificar **colores, logotipo, iconos y nombre de la inst
 📌 Versión **6.7.7**  
 
 ## 🛠️ **Instalador actualizado – NodeJS 20:**
-🔗 [Repositorio del instalador](https://github.com/launcherbr/instalador.git)
+🔗 [Repositorio del instalador](https://github.com/AndresGarciaRD/Instalador-Master/tree/main)
 
 ## ⚡ **Notas Rápidas**
 🔹 **Requisitos del servidor:** Ubuntu 20.04 LTS con al menos **4 vCores y 8GB de RAM**.</br>
